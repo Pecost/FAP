@@ -1,0 +1,14 @@
+Química:
+Sócrates
+Aristóteles
+Platão
+
+Física:
+Aristóteles
+Platão
+Sócrates
+
+Matemática:
+Platão
+Sócrates
+Aristóteles
