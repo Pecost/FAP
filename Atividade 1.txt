@@ -1,14 +1,14 @@
 Química:
-Sócrates
-Aristóteles
-Platão
+1.Sócrates
+2.Aristóteles
+3.Platão
 
 Física:
-Aristóteles
-Platão
-Sócrates
+1.Aristóteles
+2.Platão
+3.Sócrates
 
 Matemática:
-Platão
-Sócrates
-Aristóteles
+1.Platão
+2.Sócrates
+3.Aristóteles
